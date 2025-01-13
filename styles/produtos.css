@@ -1,0 +1,111 @@
+.hero_1 {
+  display: flex;
+  margin-top: 5rem;
+}
+
+.product_content {
+  margin-left: 4rem;
+  margin-right: 5rem;
+  color: whitesmoke;
+  justify-content: left;
+  text-align: left;
+}
+
+.product_tittle {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Great Vibes", cursive;
+}
+
+.product_subtittle {
+  padding-top: 3rem;
+  font-size: 1.8rem;
+  text-align: left;
+  font-family: "Trocchi", serif;
+  font width: 30
+}
+
+.order_button {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  background-color: #764a2c;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.order_button:hover {
+  background-color: #5e3a21;
+}
+
+
+/* Estilos Hero 2*/
+
+.hero_2 {
+  display: flex;
+  margin-top: 6rem;
+  flex-direction: row-reverse;
+}
+
+.product_2_content {
+  margin-left: 4rem;
+  margin-right: 5rem;
+  color: whitesmoke;
+  justify-content: left;
+  text-align: left;
+}
+
+.product_2_tittle {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Great Vibes", cursive;
+}
+
+.product_2_subtittle {
+  padding-top: 3rem;
+  font-size: 1.8rem;
+  text-align: left;
+  font-family: "Trocchi", serif;
+  font width: 30
+}
+
+/* Estilos Hero 3*/
+
+.hero_3 {
+  display: flex;
+  margin-top: 6rem;
+}
+
+.product_3_content {
+  margin-left: 4rem;
+  margin-right: 5rem;
+  color: whitesmoke;
+  justify-content: left;
+  text-align: left;
+}
+
+.product_3_tittle {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Great Vibes", cursive;
+
+}
+
+.product_3_subtittle {
+  padding-top: 3rem;
+  font-size: 1.8rem;
+  text-align: left;
+  font-family: "Trocchi", serif;
+  font width: 30
+}
